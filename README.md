@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allegralimit
 - 👀 I’m interested in making sense of data!
-- 🌱 I’m currently learning product management
+- 🌱 I’m a product manager
 - 💞️ I’m looking to collaborate on API microservices
 - 📫 How to reach me ...
 
